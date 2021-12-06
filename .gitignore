@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/embedded/projects.diy.car/Debug
+/.vs
+/src/embedded/.vs/projects.diy.car/v16
